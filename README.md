@@ -1,0 +1,4 @@
+# OCR
+A python program that extracts english text from image making use of pytesseract.
+Command:
+    python3 ocr.py --image images/example_03.png
